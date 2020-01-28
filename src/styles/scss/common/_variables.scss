@@ -1,0 +1,19 @@
+// Main Colors (theme)
+$color-black: #000;
+$color-bg: #e4e4e4;
+$color-head: #e4e4e4;
+$color-white: #fff;
+$color-link: #85c6ff;
+$color-link-hover: #4d8dc5;
+$color-title: #4d8dc5;
+$color-error-message: #ff0000;
+$color-loading: #245886;
+
+// gradient
+$gradient-black: linear-gradient(10deg, $color-bg 0%, $color-title 100%);
+
+// Image hover scale size
+$img-scale-size: 1.05;
+
+// Fonts
+$font-family-base: Arial, "Noto Sans", sans-serif;

@@ -1,0 +1,32 @@
+html {
+  font-size: 14px;
+  font-family: $font-family-base;
+}
+
+body {
+  overflow-x: hidden;
+  padding: 0 !important;
+  background: $color-bg;
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.loading {
+  text-align: center;
+  display: block;
+  padding: 50px;
+  &:before {
+    content: "";
+    position: absolute;
+    border: 3px solid $color-loading;
+    border-radius: 50%;
+    border-top: 3px solid $color-white;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+    margin-left: -70px;
+    margin-top: -20px;
+  }
+}

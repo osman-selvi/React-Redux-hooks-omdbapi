@@ -1,0 +1,5 @@
+module.exports = {
+    GET_FETCHING: "GET_FETCHING",
+    GET_FETCHED: "GET_FETCHED",
+    SET_PAGE_NUMBER: "SET_PAGE_NUMBER"
+};

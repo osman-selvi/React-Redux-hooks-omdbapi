@@ -1,0 +1,25 @@
+.pagination {
+  margin: 0 auto;
+  .numbers {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
+      float: left;
+      padding: 7px;
+      button {
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+    }
+  }
+  .btn-np {
+    height: 30px;
+    margin-top: 5px;
+    background: $color-title;
+    color: $color-white;
+    border: none;
+    cursor: pointer;
+  }
+}
