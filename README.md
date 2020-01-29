@@ -1,6 +1,16 @@
-# React Redux Hooks + OMDB API
+# React Redux Hooks + OMDB  api
 
 OMDB film apisi kullanılarak, react hooks ve redux ile film search uygulaması. Uygulama içerisinde her bir conponent bağlı bulunduğu ana component ile yönetilmektedir.
+
+#### Proje Kurulumu;
+Öncelikle proje kurulumu, development, build, test adımları için;
+* npm paketinin yüklenmesi
+```npm install```
+* proje start
+```npm run start```
+* proje test
+```npm run test```
+
 
 #### State management yapısı;
 React, daha önceki versiyonların da (16 öncesi) state management yapısın da daha fazla state ve daha fazla react component extend etmek zorunda kalıyordul. React hooks ile state management yapısı kolaylaşmış ve bileşenleri de buna göre azalmıştır. 
