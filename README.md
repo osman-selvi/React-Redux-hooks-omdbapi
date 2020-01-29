@@ -78,7 +78,7 @@ const handleInput = (e) => {
 ```
 
 React Hooks yapısı kısaca bu şekildedir. React Hooks'un yapısı ve Redux ile kullanımı için github link'i üzerinden ulaşabilirsiniz.
-[ Github ]: https://www.mozilla.org
+[ Github ]: https://github.com/osman-selvi/React-Redux-hooks-omdbapi
 
 
 
