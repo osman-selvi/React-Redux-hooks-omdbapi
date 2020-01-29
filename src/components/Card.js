@@ -11,7 +11,7 @@ const Card = (props) => {
 
     return (
         <div className="col-md-4 col-sm-6">
-            <Link to="/movie" className="movie-card">
+            <Link to="#" className="movie-card">
                 <figure className="figure">
                     <div className="img-wrap">
                         <span className="type"> {detail.Type}</span>
