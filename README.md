@@ -1,6 +1,6 @@
 # React Redux Hooks + OMDB  api
 
-OMDB film apisi kullanılarak, react hooks ve redux ile film search uygulaması. Uygulama içerisinde her bir conponent bağlı bulunduğu ana component ile yönetilmektedir.
+OMDB film apisi kullanılarak, react hooks ve redux ile film search uygulaması. Uygulama içerisinde her bir component'in bağlı bulunduğu ana component ile yönetilmektedir.
 
 #### Proje Kurulumu;
 Öncelikle proje kurulumu, development, build, test adımları için;
